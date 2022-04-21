@@ -6,7 +6,7 @@
   </div><br>
 
   <h1>Alura Barbershop</h1>
-  <p>Site de uma barbearia, desenvolvido através dos cursos de HTML5 e CSS3 da plataforma Alura</p>
+  <p>Site de uma barbearia, desenvolvido através dos cursos de HTML5 e CSS3, da plataforma Alura</p>
 
   <div>
     <a href="https://github.com/Doug-Silva/alura-barbershop/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" alt="License MIT"></a>
